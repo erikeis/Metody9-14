@@ -16,10 +16,7 @@ namespace Metody11
         {
             InitializeComponent();
         }
-        public Form1()
-        {
-            InitializeComponent();
-        }
+
         private int PocetSlov(string s1, out string s2)
         {
             char[] oddelovace = { ' ' };
